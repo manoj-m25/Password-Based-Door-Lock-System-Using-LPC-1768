@@ -1,5 +1,5 @@
-# Password-Based-Door-Lock-System-Using-LPC-1768
-The password-based door lock system kit is a device that has been developed to enhance  the security of a place concerned where the entry of unauthorized individuals is restricted.  The device works with the help of an LPC 1768 that has been set in such a way to  respond to a certain binary code only
+# Password-Based-Door-Lock-System-Using-LPC-2148
+The password-based door lock system kit is a device that has been developed to enhance  the security of a place concerned where the entry of unauthorized individuals is restricted.  The device works with the help of an LPC 2148 that has been set in such a way as to  respond to a certain binary code only
 
 One needs to arrange their Circuit in such a way that it follows what we have written in the code
 
